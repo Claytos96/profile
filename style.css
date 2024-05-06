@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedan+SC&display=swap');
+
+body {color:aqua;
+font-size: 14;
+background-color: rgb(14,185,209);
+background: linear-gradient(45deg, rgba(14,185,209,1) 0%, rgba(216,230,229,1) 40%, rgba(142,212,221,1) 100%);
+margin: 20px auto;
+text-align:center;}
+
+h1 {color:cyan;
+font-family: sedan sc;}
+
+h2 {color:darkgoldenrod;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+
+.icon {width:200px;
+margin: auto;
+color:greenyellow;
+display: flex;
+list-style-type: none;
+align-items: center;
+justify-content: space-around;}
+
+a {color:greenyellow}
+
+p {font-size: 20px;
+line-height: 2rem;}
+
+img {height: 400px;
+width: 300px;
+border-radius: 20px}
+
+a:hover {color:darkorchid;}
+
+.container {max-width: 700px;
+margin: auto;}
+
+.card {background-color:blue;
+padding: 10px;
+margin: 20px;
+border-color: darkgoldenrod;
+border-width: 10px;
+border-style: solid;}
+
+i {font-size: 40px;}
